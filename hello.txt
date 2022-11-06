@@ -17,13 +17,7 @@ hello git
 hello git
 hello git
 hello git
-
-5678321
 myfmyfmyfmyfmyfmyfmyfmyfmyf
-6789
 vvvvvvvvvvvvvvvvvvvvvvvv
-
-
-hot -fix test
 
 ==================hot-fix===============
